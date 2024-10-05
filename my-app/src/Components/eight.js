@@ -31,7 +31,7 @@ export default function eight() {
                   >
                     <div className="accordion-body">
                       Edutain is an innovative platform that offers a diverse
-                      range of educational resources, including free online
+                      range of Edutainional resources, including free online
                       courses across various domains. Our mission is to empower
                       learners by providing high-quality content and fostering a
                       community of engaged students.
@@ -60,7 +60,7 @@ export default function eight() {
                   >
                     <div className="accordion-body">
                       Edutain stands out for its commitment to quality
-                      education. Our courses are designed by industry experts
+                      Edutainion. Our courses are designed by industry experts
                       and are tailored to meet the needs of learners at all
                       levels. We emphasize interactivity and engagement,
                       ensuring that you have the best learning experience

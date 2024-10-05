@@ -12,7 +12,7 @@ export default function Fifth() {
           </h3>
 
           <p className="mb-5 fw-semibold">
-            Embark on your online learning journey at Educat with our free
+            Embark on your online learning journey at Edutain with our free
             short-term courses designed to enhance your skills across various
             in-demand fields. Our programs are crafted to provide foundational
             knowledge and practical insights that will empower you to thrive in
@@ -21,7 +21,7 @@ export default function Fifth() {
 
           <p className="mb-3 fw-semibold">
             Discover a diverse range of subjects, from technology to business,
-            and acquire the expertise needed to stay ahead. Join Educat today
+            and acquire the expertise needed to stay ahead. Join Edutain today
             and unlock a world of learning opportunities that will help you
             reach your full potential!
           </p>

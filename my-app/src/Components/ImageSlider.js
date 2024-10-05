@@ -62,7 +62,7 @@ function UncontrolledExample() {
             </h1>
             <p className="text-white fw-bold pb-2">
               Unlock your potential with interactive lessons, engaging quizzes,
-              and hands-on projects. Experience an educational journey that
+              and hands-on projects. Experience an edutainional journey that
               fuels your passion for knowledge and prepares you for success.
             </p>
             <div className="d-flex flex-wrap">

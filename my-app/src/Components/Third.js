@@ -9,7 +9,7 @@ export default function Third() {
     <>
       <div className="mb-4">
         <h2 className="text-center d-block p-2 fw-bold text-warning mb-1 fs-1">
-          Invest in Your Professional Goals with Educat
+          Invest in Your Professional Goals with Edutain
         </h2>
         <h3 className="text-center d-block p-2 fw-bold text-dark mb-4 fs-6">
           Get unlimited access to over 90% of courses, projects,

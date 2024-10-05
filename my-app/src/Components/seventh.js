@@ -24,15 +24,15 @@ export default function Seventh() {
 
             <p className="mb-5 fw-bold text-light ">
               Are you passionate about sharing your knowledge and helping others
-              grow? Join our community of instructors at Educat and make an
+              grow? Join our community of instructors at Edutain and make an
               impact on learners around the world. Whether you are an expert in
               technology, business, design, or any other field, you can inspire
-              and educate thousands of students by creating high-quality,
+              and Edutaine thousands of students by creating high-quality,
               engaging courses.
             </p>
 
             <p className="mb-3 fs-3  fw-bold text-dark" style={{ backgroundColor: 'rgba(255, 255, 255, 0.7)', padding: '10px', borderRadius: '8px' }}>
-              Why Become an Instructor at Educat?
+              Why Become an Instructor at Edutain?
             </p>
             <ul className="fw-semibold fs-6 text-dark" style={{ backgroundColor: 'rgba(255, 255, 255, 0.7)', padding: '10px', borderRadius: '8px' }}>
               <li>
@@ -66,7 +66,7 @@ export default function Seventh() {
               </li>
               <li>
                 ➔ <strong>Community & Networking</strong>: Join a thriving
-                community of educators, exchanging ideas and collaborating on
+                community of Edutainors, exchanging ideas and collaborating on
                 projects.
               </li>
               <li>

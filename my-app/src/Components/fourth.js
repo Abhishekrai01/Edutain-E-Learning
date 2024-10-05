@@ -22,11 +22,11 @@ export default function Fourth() {
           <h6 className="section-title bg-white text-start pe-3 fs-3 mb-0">
             About Us<i className="bi bi-info-circle ms-2 custom-icon"></i>
           </h6>
-          <h1 className="mb-2 text-about">Welcome to Educat</h1>
+          <h1 className="mb-2 text-about">Welcome to Edutain</h1>
           <p className="mb-1 fw-semibold">
-            At Educat, we believe in creating accessible and engaging learning
+            At Edutain, we believe in creating accessible and engaging learning
             experiences that adapt to your unique schedule and preferred
-            learning style. Join us in shaping the future of education and
+            learning style. Join us in shaping the future of Edutainion and
             unlock your potential with our diverse range of immersive online
             courses designed to inspire and empower.
           </p>
